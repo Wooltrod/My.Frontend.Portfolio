@@ -4,8 +4,6 @@
 Welcome to my frontend project showcase!  
 This repository highlights my progress in mastering HTML, CSS, layout design, and responsive web development.
 
-## ✨ Projects
-
 ---
 
 ### 1. Flag of Laos  
@@ -65,7 +63,7 @@ A responsive landing page for a fictional web design agency with media queries f
 
 ---
 
-## 📦 Bootstrap Project
+## 📦 Bootstrap Projects
 
 ### 1. Moving Company 
 Built a fictional moving service site using Bootstrap's prebuilt components and grid system.
