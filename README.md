@@ -67,8 +67,36 @@ A responsive landing page for a fictional web design agency with media queries f
 
 ## 📦 Bootstrap Project
 
-### 🧰 Bootstrap Resume Page  
-### 🧰 Bootstrap Resume Page  
+### 1. Moving Company 
+Built a fictional moving service site using Bootstrap's prebuilt components and grid system.
+
+**Key Concepts:**
+🔹 Navbar: Responsive navigation bar with dropdown menu and collapsible toggle on smaller screens.
+
+🔹 Hero Section: Center-aligned content with call-to-action buttons and an illustrative image.
+
+🔹 Features Grid: Three-column layout using Bootstrap's responsive grid and card-like components to highlight professionalism, national service, and a personal touch.
+
+🔹 Carousel: Image slider displaying customer-oriented lifestyle imagery using the Bootstrap Carousel component.
+
+🔹 Footer: Responsive multi-column footer layout for site navigation and branding.
+
+🔹 Form & Button Elements: Implemented search functionality and styled action buttons with Bootstrap utility classes.
+
+🔹 Theme: Dark mode enabled via data-bs-theme="dark" on <html>.
+
+![Moving Company Website Screenshot](./assets/project_previews/MoveIT-company-website.png) 
+
+📁 [View Code](./Bootstrap%20Projects/Bootstrap%20Components/index.html)
+
+---
+
+### 2. TinDog Fictional App Website
+Built a Bootstrap Frontend showcasing a fictional mobile application.
+
+![TinDog App Website Screenshot](./assets/project_previews/tindog-project.png)
+
+📁 [View Code](./Bootstrap%20Projects/TinDog%20Project/)
 
 ## 🧑‍💼 About Me
 I'm a Computer Science & Engineering student currently based in Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
