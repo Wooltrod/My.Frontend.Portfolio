@@ -103,13 +103,21 @@ Built a Bootstrap Frontend showcasing a fictional mobile application.
 This project serves as an introduction to JavaScript, focusing on core programming concepts and real-world applications like string manipulation, user input handling, and function creation. Below are some key learning points:
 
 🔹 Variable Declaration and Assignment
+
 🔹 Swapping Values Using Temporary Variables
+
 🔹 String Length and User Input
+
 🔹 String Slicing
+
 🔹 Converting Strings to Uppercase and Lowercase
+
 🔹 Capitalizing User Input
+
 🔹 Mathematical Operations
+
 🔹 Creating Functions
+
 🔹 Calling Functions Within Other Functions
 
 📁 [View Code](./Javascript%20Projects/1.%20Introduction%20to%20Javascript/index.js)
@@ -119,10 +127,15 @@ This project serves as an introduction to JavaScript, focusing on core programmi
 ### 2. Intermediate Javascript
 
 🔹 Pseudo Random Number Generator for Simulating a Die Roll
+
 🔹 Control Flow with Conditional Statements
+
 🔹 Leap Year Determination
+
 🔹 Array Operations: Checking if a Name is on a Guest List
+
 🔹 FizzBuzz with a While Loop, If-Else Loop, & For Loop
+
 🔹 Fibonacci Sequence Generator
 
 📁 [View Code](./Javascript%20Projects/2.%20Intermediate%20Javascript/index.js)
@@ -133,8 +146,11 @@ This project serves as an introduction to JavaScript, focusing on core programmi
 Key learning points:
 
 🔹 Selecting Elements in the DOM, Storing elements in variables, Navigating through child elements
+
 🔹 Modifying Elements, Modifying innerHTML, Modifying styles, Interacting with form elements
+
 🔹 Selecting Specific Elements
+
 🔹 Key principles of "Separation of Concerns"
 
 📁 [View Code](./Javascript%20Projects/3.%20The%20Document%20Object%20Model/index.js)
@@ -153,7 +169,7 @@ Dice rolling game that selects a winner based on the die roll with th higher val
 ---
 
 ### 5. Drum Kit Project
-Implemented event handlers/listneners to create drum kit website with drums sounds triggered by clicks.
+Implemented event handlers/listeners to create drum kit website, where drums sounds triggered by clicks.
 
 ![Drum Kit Project Preview](./assets/project_previews/drum-kit-project.png)
 
