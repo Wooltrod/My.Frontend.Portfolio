@@ -98,7 +98,9 @@ Built a Bootstrap Frontend showcasing a fictional mobile application.
 
 📁 [View Code](./Bootstrap%20Projects/TinDog%20Project/)
 
+
+# ⚙️ Javascript Projects 
 ## 🧑‍💼 About Me
 I'm a Computer Science & Engineering student currently based in Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
 
-📫 Contact me: [LinkedIn](#) | [Portfolio Site](#)
+[Portfolio Site](#)
