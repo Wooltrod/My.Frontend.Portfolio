@@ -97,7 +97,7 @@ Built a Bootstrap Frontend showcasing a fictional mobile application.
 📁 [View Code](./Bootstrap%20Projects/TinDog%20Project/)
 
 
-# ⚙️ Javascript Projects
+# ⚙️ Javascript
 
 ### 1. Introduction to Javascript
 This project serves as an introduction to JavaScript, focusing on core programming concepts and real-world applications like string manipulation, user input handling, and function creation. Below are some key learning points:
@@ -178,6 +178,6 @@ Implemented event handlers/listeners to create drum kit website, where drums sou
 ---
 
 ## 🧑‍💼 About Me
-I'm a Computer Science & Engineering student currently based in Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
+I'm a Computer Science & Engineering student at Óbuda University in Budapest, Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
 
 [Portfolio Site](#)
