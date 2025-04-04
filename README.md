@@ -15,7 +15,7 @@ A pixel-perfect recreation of the Laos national flag using only HTML and CSS.
 🔹 Box Model  
 🔹 Background Colors & Flexbox  
 
-![Flag of Laos Screenshot](./screenshots/flag-of-laos.png)
+![Flag of Laos Screenshot](./assets/project_previews/flag-of-laos.png)
 
 📁 [View Code](./flag-of-laos)
 
@@ -29,7 +29,7 @@ A CSS grid-based recreation of a Piet Mondrian-style painting.
 🔹 Positioning  
 🔹 Layering and Layouts  
 
-![Mondrian Screenshot](./screenshots/mondrian.png)
+![Mondrian Screenshot](./assets/project_previews/mondrian.png)
 
 📁 [View Code](./mondrian-painting)
 
@@ -44,7 +44,7 @@ A simple and responsive pricing table layout for a product/service.
 🔹 Button Styling  
 🔹 Responsive Units  
 
-![Pricing Table Screenshot](./screenshots/pricing-table.png)
+![Pricing Table Screenshot](./assets/project_previews/pricing-table.png)
 
 📁 [View Code](./pricing-table)
 
@@ -59,7 +59,7 @@ A responsive landing page for a fictional web design agency with media queries f
 🔹 Typography & Layout  
 🔹 Semantic HTML  
 
-![Agency Site Screenshot](./screenshots/web-agency.png)
+![Agency Site Screenshot](./assets/project_previews/web-agency.png)
 
 📁 [View Code](./web-design-agency)
 
