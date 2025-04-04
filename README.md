@@ -142,12 +142,20 @@ Key learning points:
 ---
 
 ### 4. Dicee Challenge Project
+Dice rolling game that selects a winner based on the die roll with th higher value.
+
+![Player 1 Wins](./assets/project_previews/dicee-challenge-player-one-wins.png)
+![Player 2 Wins](./assets/project_previews/dicee-challenge-player-two-wins.png)
+![Draw](./assets/project_previews/dicee-challenge-draw.png)
 
 📁 [View Code](./Javascript%20Projects/4.%20Dicee%20Challenge%20Project/index.js)
 
 ---
 
 ### 5. Drum Kit Project
+Implemented event handlers/listneners to create drum kit website with drums sounds triggered by clicks.
+
+![Drum Kit Project Preview](./assets/project_previews/drum-kit-project.png)
 
 📁 [View Code](./Javascript%20Projects/5.%20Drum%20Kit%20Project/index.js)
 
