@@ -15,7 +15,7 @@ A pixel-perfect recreation of the Laos national flag using only HTML and CSS.
 
 ![Flag of Laos Screenshot](./assets/project_previews/flag-of-laos.png)
 
-📁 [View Code](./HTML%20+%20CSS%20Projects/7.3%20CSS%20Flag%20Project/index.html)
+📁 [View Code](./HTML%20+%20CSS%20Projects/CSS%20Flag%20Project/index.html)
 
 ---
 
@@ -29,7 +29,7 @@ A CSS grid-based recreation of a Piet Mondrian-style painting.
 
 ![Mondrian Screenshot](./assets/project_previews/mondrian.png)
 
-📁 [View Code](./HTML%20+%20CSS%20Projects/10.3%20Mondrian%20Project/index.html)
+📁 [View Code](./HTML%20+%20CSS%20Projects/Mondrian%20Project/index.html)
 
 ---
 
@@ -44,7 +44,7 @@ A simple and responsive pricing table layout for a product/service.
 
 ![Pricing Table Screenshot](./assets/project_previews/pricing-table.png)
 
-📁 [View Code](./HTML%20+%20CSS%20Projects/9.4%20Flexbox%20Pricing%20Table%20Project/index.html)
+📁 [View Code](./HTML%20+%20CSS%20Projects/Flexbox%20Pricing%20Table%20Project/index.html)
 
 ---
 
@@ -59,7 +59,7 @@ A responsive landing page for a fictional web design agency with media queries f
 
 ![Agency Site Screenshot](./assets/project_previews/web-agency.png)
 
-📁 [View Code](./HTML%20+%20CSS%20Projects/8.4%20Web%20Design%20Agency%20Project/)
+📁 [View Code](./HTML%20+%20CSS%20Projects/Web%20Design%20Agency%20Project/)
 
 ---
 
@@ -97,7 +97,62 @@ Built a Bootstrap Frontend showcasing a fictional mobile application.
 📁 [View Code](./Bootstrap%20Projects/TinDog%20Project/)
 
 
-# ⚙️ Javascript Projects 
+# ⚙️ Javascript Projects
+
+### 1. Introduction to Javascript
+This project serves as an introduction to JavaScript, focusing on core programming concepts and real-world applications like string manipulation, user input handling, and function creation. Below are some key learning points:
+
+🔹 Variable Declaration and Assignment
+🔹 Swapping Values Using Temporary Variables
+🔹 String Length and User Input
+🔹 String Slicing
+🔹 Converting Strings to Uppercase and Lowercase
+🔹 Capitalizing User Input
+🔹 Mathematical Operations
+🔹 Creating Functions
+🔹 Calling Functions Within Other Functions
+
+📁 [View Code](./Javascript%20Projects/1.%20Introduction%20to%20Javascript/index.js)
+
+---
+
+### 2. Intermediate Javascript
+
+🔹 Pseudo Random Number Generator for Simulating a Die Roll
+🔹 Control Flow with Conditional Statements
+🔹 Leap Year Determination
+🔹 Array Operations: Checking if a Name is on a Guest List
+🔹 FizzBuzz with a While Loop, If-Else Loop, & For Loop
+🔹 Fibonacci Sequence Generator
+
+📁 [View Code](./Javascript%20Projects/2.%20Intermediate%20Javascript/index.js)
+
+---
+
+### 3. The Document Object Model (DOM)
+Key learning points:
+
+🔹 Selecting Elements in the DOM, Storing elements in variables, Navigating through child elements
+🔹 Modifying Elements, Modifying innerHTML, Modifying styles, Interacting with form elements
+🔹 Selecting Specific Elements
+🔹 Key principles of "Separation of Concerns"
+
+📁 [View Code](./Javascript%20Projects/3.%20The%20Document%20Object%20Model/index.js)
+
+---
+
+### 4. Dicee Challenge Project
+
+📁 [View Code](./Javascript%20Projects/4.%20Dicee%20Challenge%20Project/index.js)
+
+---
+
+### 5. Drum Kit Project
+
+📁 [View Code](./Javascript%20Projects/5.%20Drum%20Kit%20Project/index.js)
+
+---
+
 ## 🧑‍💼 About Me
 I'm a Computer Science & Engineering student currently based in Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
 
