@@ -158,7 +158,7 @@ Key learning points:
 ---
 
 ### 4. Dicee Challenge Project
-Dice rolling game that selects a winner based on the die roll with the higher value.
+Die rolling game that selects a winner based on the die roll with the higher value.
 
 ![Player 1 Wins](./assets/project_previews/dicee-challenge-player-one-wins.png)
 ![Player 2 Wins](./assets/project_previews/dicee-challenge-player-two-wins.png)
@@ -169,7 +169,7 @@ Dice rolling game that selects a winner based on the die roll with the higher va
 ---
 
 ### 5. Drum Kit Project
-Implemented event handlers/listeners to create drum kit website, where drums sounds triggered by clicks.
+Implemented Javascript event handlers/listeners to create drum kit website, where drums sounds triggered by clicks.
 
 ![Drum Kit Project Preview](./assets/project_previews/drum-kit-project.png)
 
@@ -179,5 +179,3 @@ Implemented event handlers/listeners to create drum kit website, where drums sou
 
 ## 🧑‍💼 About Me
 I'm a Computer Science & Engineering student at Óbuda University in Budapest, Hungary. I'm passionate about frontend development and am actively building projects using HTML, CSS, JavaScript, and modern frameworks like React (coming soon!).
-
-[Portfolio Site](#)
