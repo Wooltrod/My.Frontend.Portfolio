@@ -158,7 +158,7 @@ Key learning points:
 ---
 
 ### 4. Dicee Challenge Project
-Dice rolling game that selects a winner based on the die roll with th higher value.
+Dice rolling game that selects a winner based on the die roll with the higher value.
 
 ![Player 1 Wins](./assets/project_previews/dicee-challenge-player-one-wins.png)
 ![Player 2 Wins](./assets/project_previews/dicee-challenge-player-two-wins.png)
